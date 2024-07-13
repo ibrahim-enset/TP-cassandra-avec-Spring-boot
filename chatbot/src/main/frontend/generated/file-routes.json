@@ -1,0 +1,18 @@
+[
+  {
+    "route": "chat",
+    "params": {},
+    "children": [
+      {
+        "route": "ChatView",
+        "params": {},
+        "title": "Chat"
+      }
+    ]
+  },
+  {
+    "route": "MainLayout",
+    "params": {},
+    "title": "Main Layout"
+  }
+]
